@@ -18,3 +18,41 @@
 .destaque {
     color: var(--azul);
 }
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px 20px 20px 20px;
+  }
+
+p{
+    font-size: 24px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: orange;
+}
+
+h2 {
+    font-size: 30px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: orange;
+}
+
+li {
+    width: 1000px;
+    font-size: 24px;
+    line-height: 2;
+    letter-spacing: 1px;
+    display: inline-block;
+    text-align: center; 
+    margin: 0 auto;
+}
+
+
